@@ -26,7 +26,7 @@
   },
   "icon": "images/icon.png",
   "dependencies": {
-    "baseui": "^9.51.0"
+    "baseui": "^14.0.0"
   },
   "devDependencies": {
     "@types/glob": "^7.1.1",
